@@ -10,6 +10,7 @@ let figure;
 let figureNext = 'figure';
 let matFild;
 
+
 let fieldWidth;
 let fieldHeight;
 let blockSize;
