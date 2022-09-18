@@ -191,7 +191,6 @@ body {
 
 .buttun:hover {
   animation: buttonAnim 1s linear infinite alternate forwards;
-
 }
 
 @keyframes buttonAnim {
