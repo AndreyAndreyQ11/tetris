@@ -140,53 +140,51 @@ body {
 
 .menu {
   position: absolute;
-  top: 10px;
-  right: 10px;
+  top: 5px;
+  right: 5px;
   margin: 0px auto;
   border: 1px solid #000000;
   background-color: Silver;
   z-index: 5;
   border-radius: 9px;
-
   display: inline-flex;
 }
 
 .menu_1 {
-  width: 150px;
-  font-size: 16px;
+  width: 90px;
+  font-size: 10px;
   font-weight: 500;
   text-transform: capitalize;
   text-align: right;
-  line-height: 20px;
+  line-height: 18px;
 }
 
 .menu_2 {
-  width: 60px;
-  font-size: 16px;
+  width: 50px;
   font-weight: 500;
   text-transform: capitalize;
-  line-height: 20px;
+  line-height: 18px;
 }
 
 
 .inputInput {
   width: 40px;
-  font-size: 14px;
+  font-size: 12px;
   overflow: hidden;
   margin: 0px 0px 0px 5px;
 }
 
 .buttun {
-  width: 130px;
-  height: 40px;
+  width: 100px;
+  height: 30px;
   background-color: #007979;
   border-radius: 4px;
   color: #00FFFF;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 10px;
   position: absolute;
-  top: 130px;
-  left: 40px;
+  top: 111px;
+  left: 22px;
   border: 2px solid #004848;
   cursor: pointer;
   transition: 1s;
