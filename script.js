@@ -1,7 +1,6 @@
 
 "use strict"
 
-
 let gameFild = document.querySelector('.gameFild');
 let divFather = gameFild.querySelector('.divFather');
 let namberNamber = 0;
